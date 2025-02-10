@@ -1,0 +1,3 @@
+@ECHO OFF
+DATE /T && TIME /T
+@ECHO ON

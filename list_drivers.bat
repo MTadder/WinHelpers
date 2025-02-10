@@ -1,0 +1,1 @@
+driverquery.exe /v /fo list

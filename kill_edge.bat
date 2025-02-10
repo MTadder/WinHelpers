@@ -1,0 +1,1 @@
+TASKKILL /im "msedge.exe" /F
