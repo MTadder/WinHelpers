@@ -1,3 +1,3 @@
 @ECHO OFF
-GIT add .
+GIT status
 @ECHO ON

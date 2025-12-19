@@ -1,1 +1,3 @@
-git push --force-with-lease
+@ECHO OFF
+GIT push --force-with-lease
+@ECHO ON

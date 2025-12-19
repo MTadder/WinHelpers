@@ -1,3 +1,3 @@
 @ECHO OFF
-git commit -m "%*"
+GIT commit -m "%*"
 @ECHO ON

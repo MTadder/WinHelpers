@@ -1,3 +1,3 @@
-ipconfig /release
-ipconfig /flushdns
-ipconfig /renew
+IPCONFIG /release
+IPCONFIG /flushdns
+IPCONFIG /renew

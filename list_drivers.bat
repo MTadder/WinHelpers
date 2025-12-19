@@ -1,1 +1,1 @@
-driverquery.exe /v /fo list
+DRIVERQUERY.EXE /v /fo list
